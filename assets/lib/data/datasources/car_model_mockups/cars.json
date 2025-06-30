@@ -1,0 +1,1332 @@
+[
+  {
+    "id": 0,
+    "name": "Volkswagen Golf 8",
+    "hsn": "0603",
+    "tsn": "CNX",
+    "carType": "hatchback",
+    "consumption": 5.5,
+    "maxTankVolume": 50.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 1,
+    "name": "BMW 3 Series (G20)",
+    "hsn": "0005",
+    "tsn": "DIN",
+    "carType": "sedan",
+    "consumption": 6.0,
+    "maxTankVolume": 59.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 2,
+    "name": "Audi Q5",
+    "hsn": "0588",
+    "tsn": "CDL",
+    "carType": "suv",
+    "consumption": 7.0,
+    "maxTankVolume": 65.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 3,
+    "name": "Ford Mustang GT",
+    "hsn": "1028",
+    "tsn": "AAX",
+    "carType": "muscle",
+    "consumption": 12.5,
+    "maxTankVolume": 61.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 4,
+    "name": "Mercedes-Benz C-Class Estate",
+    "hsn": "0710",
+    "tsn": "395",
+    "carType": "station",
+    "consumption": 6.2,
+    "maxTankVolume": 66.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 5,
+    "name": "Ford Fiesta MK5",
+    "hsn": "8566",
+    "tsn": "519",
+    "carType": "hatchback",
+    "consumption": 6.5,
+    "maxTankVolume": 42.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 6,
+    "name": "Porsche 911 Carrera",
+    "hsn": "0583",
+    "tsn": "AJF",
+    "carType": "coupe",
+    "consumption": 10.8,
+    "maxTankVolume": 64.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 7,
+    "name": "Toyota RAV4",
+    "hsn": "5013",
+    "tsn": "AOS",
+    "carType": "suv",
+    "consumption": 5.8,
+    "maxTankVolume": 55.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 8,
+    "name": "Renault Scenic",
+    "hsn": "3333",
+    "tsn": "BGY",
+    "carType": "minivan",
+    "consumption": 6.1,
+    "maxTankVolume": 52.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 9,
+    "name": "Mazda MX-5",
+    "hsn": "7118",
+    "tsn": "AAL",
+    "carType": "roadster",
+    "consumption": 6.9,
+    "maxTankVolume": 45.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 10,
+    "name": "Ford Ranger",
+    "hsn": "1566",
+    "tsn": "AAL",
+    "carType": "pickup",
+    "consumption": 8.9,
+    "maxTankVolume": 80.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 11,
+    "name": "Skoda Octavia Combi",
+    "hsn": "8004",
+    "tsn": "AVB",
+    "carType": "station",
+    "consumption": 5.2,
+    "maxTankVolume": 45.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 12,
+    "name": "Fiat 500C",
+    "hsn": "4136",
+    "tsn": "BBU",
+    "carType": "cabriolet",
+    "consumption": 5.3,
+    "maxTankVolume": 35.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 13,
+    "name": "Opel Corsa F",
+    "hsn": "0035",
+    "tsn": "BJO",
+    "carType": "hatchback",
+    "consumption": 5.4,
+    "maxTankVolume": 44.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 14,
+    "name": "Honda Civic",
+    "hsn": "7100",
+    "tsn": "AAL",
+    "carType": "sedan",
+    "consumption": 6.1,
+    "maxTankVolume": 47.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 15,
+    "name": "Hyundai i30",
+    "hsn": "8252",
+    "tsn": "AII",
+    "carType": "hatchback",
+    "consumption": 6.8,
+    "maxTankVolume": 50.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 16,
+    "name": "Volvo XC60",
+    "hsn": "9101",
+    "tsn": "BIF",
+    "carType": "suv",
+    "consumption": 7.5,
+    "maxTankVolume": 71.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 17,
+    "name": "Peugeot 208",
+    "hsn": "3003",
+    "tsn": "AJU",
+    "carType": "hatchback",
+    "consumption": 5.1,
+    "maxTankVolume": 44.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 18,
+    "name": "Dacia Duster",
+    "hsn": "8212",
+    "tsn": "ABN",
+    "carType": "suv",
+    "consumption": 6.4,
+    "maxTankVolume": 50.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 19,
+    "name": "Citroën C3",
+    "hsn": "3001",
+    "tsn": "BHS",
+    "carType": "hatchback",
+    "consumption": 5.6,
+    "maxTankVolume": 45.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 20,
+    "name": "Nissan Qashqai",
+    "hsn": "1329",
+    "tsn": "AJS",
+    "carType": "cuv",
+    "consumption": 6.0,
+    "maxTankVolume": 55.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 21,
+    "name": "Kia Ceed",
+    "hsn": "8253",
+    "tsn": "AAG",
+    "carType": "hatchback",
+    "consumption": 6.2,
+    "maxTankVolume": 50.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 22,
+    "name": "Jeep Wrangler",
+    "hsn": "1004",
+    "tsn": "ADW",
+    "carType": "suv",
+    "consumption": 11.0,
+    "maxTankVolume": 81.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 23,
+    "name": "Land Rover Defender",
+    "hsn": "2143",
+    "tsn": "ABZ",
+    "carType": "suv",
+    "consumption": 10.2,
+    "maxTankVolume": 90.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 24,
+    "name": "Ferrari F8 Tributo",
+    "hsn": "4013",
+    "tsn": "AAI",
+    "carType": "superCar",
+    "consumption": 15.0,
+    "maxTankVolume": 78.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 25,
+    "name": "Lamborghini Huracán",
+    "hsn": "4028",
+    "tsn": "AAB",
+    "carType": "superCar",
+    "consumption": 14.0,
+    "maxTankVolume": 83.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 26,
+    "name": "Maserati Ghibli",
+    "hsn": "4014",
+    "tsn": "AAX",
+    "carType": "sedan",
+    "consumption": 9.6,
+    "maxTankVolume": 80.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 27,
+    "name": "VW T-Roc",
+    "hsn": "0603",
+    "tsn": "CJS",
+    "carType": "cuv",
+    "consumption": 5.9,
+    "maxTankVolume": 50.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 28,
+    "name": "Audi A1",
+    "hsn": "0588",
+    "tsn": "BFR",
+    "carType": "hatchback",
+    "consumption": 5.8,
+    "maxTankVolume": 40.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 29,
+    "name": "BMW X1",
+    "hsn": "0005",
+    "tsn": "BZW",
+    "carType": "suv",
+    "consumption": 6.5,
+    "maxTankVolume": 61.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 30,
+    "name": "Mercedes-Benz GLA",
+    "hsn": "1313",
+    "tsn": "HZT",
+    "carType": "cuv",
+    "consumption": 6.7,
+    "maxTankVolume": 51.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 31,
+    "name": "Ford Puma",
+    "hsn": "8566",
+    "tsn": "BJM",
+    "carType": "cuv",
+    "consumption": 5.6,
+    "maxTankVolume": 42.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 32,
+    "name": "Skoda Kamiq",
+    "hsn": "8004",
+    "tsn": "ATU",
+    "carType": "cuv",
+    "consumption": 5.5,
+    "maxTankVolume": 40.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 33,
+    "name": "Seat Arona",
+    "hsn": "7593",
+    "tsn": "AMF",
+    "carType": "cuv",
+    "consumption": 5.4,
+    "maxTankVolume": 40.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 34,
+    "name": "Hyundai Kona",
+    "hsn": "8252",
+    "tsn": "AJO",
+    "carType": "cuv",
+    "consumption": 6.7,
+    "maxTankVolume": 50.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 35,
+    "name": "Kia Stonic",
+    "hsn": "8253",
+    "tsn": "AAH",
+    "carType": "cuv",
+    "consumption": 5.9,
+    "maxTankVolume": 45.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 36,
+    "name": "Toyota Yaris",
+    "hsn": "5013",
+    "tsn": "AKL",
+    "carType": "hatchback",
+    "consumption": 4.3,
+    "maxTankVolume": 42.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 37,
+    "name": "Renault Captur",
+    "hsn": "3333",
+    "tsn": "BJE",
+    "carType": "cuv",
+    "consumption": 5.8,
+    "maxTankVolume": 48.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 38,
+    "name": "Peugeot 2008",
+    "hsn": "3003",
+    "tsn": "AJT",
+    "carType": "cuv",
+    "consumption": 5.5,
+    "maxTankVolume": 44.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 39,
+    "name": "Citroën C5 Aircross",
+    "hsn": "3001",
+    "tsn": "BJE",
+    "carType": "suv",
+    "consumption": 6.6,
+    "maxTankVolume": 53.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 40,
+    "name": "Volvo V60",
+    "hsn": "9101",
+    "tsn": "BJA",
+    "carType": "station",
+    "consumption": 7.0,
+    "maxTankVolume": 60.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 41,
+    "name": "VW California",
+    "hsn": "0603",
+    "tsn": "BMT",
+    "carType": "camperVan",
+    "consumption": 8.5,
+    "maxTankVolume": 70.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 42,
+    "name": "Ford Transit Custom",
+    "hsn": "8566",
+    "tsn": "BHF",
+    "carType": "panelvan",
+    "consumption": 7.8,
+    "maxTankVolume": 72.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 43,
+    "name": "Mercedes-Benz Sprinter",
+    "hsn": "1313",
+    "tsn": "FJI",
+    "carType": "vanTruck",
+    "consumption": 9.2,
+    "maxTankVolume": 71.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 44,
+    "name": "Porsche 718 Boxster",
+    "hsn": "0583",
+    "tsn": "AHH",
+    "carType": "roadster",
+    "consumption": 8.1,
+    "maxTankVolume": 54.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 45,
+    "name": "Audi TT Roadster",
+    "hsn": "8307",
+    "tsn": "ABK",
+    "carType": "roadster",
+    "consumption": 7.3,
+    "maxTankVolume": 55.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 46,
+    "name": "BMW Z4",
+    "hsn": "0005",
+    "tsn": "CVW",
+    "carType": "roadster",
+    "consumption": 7.4,
+    "maxTankVolume": 52.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 47,
+    "name": "Alpine A110",
+    "hsn": "8212",
+    "tsn": "ABF",
+    "carType": "sport",
+    "consumption": 7.0,
+    "maxTankVolume": 45.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 48,
+    "name": "Toyota Supra",
+    "hsn": "5013",
+    "tsn": "AJV",
+    "carType": "sport",
+    "consumption": 7.5,
+    "maxTankVolume": 52.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 49,
+    "name": "Porsche 911 Targa",
+    "hsn": "0583",
+    "tsn": "AJG",
+    "carType": "targa",
+    "consumption": 11.0,
+    "maxTankVolume": 64.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 50,
+    "name": "Seat Ibiza",
+    "hsn": "7593",
+    "tsn": "AMK",
+    "carType": "hatchback",
+    "consumption": 5.2,
+    "maxTankVolume": 40.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 51,
+    "name": "Mazda CX-3",
+    "hsn": "7118",
+    "tsn": "AFJ",
+    "carType": "suv",
+    "consumption": 6.2,
+    "maxTankVolume": 48.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 52,
+    "name": "Jaguar F-Pace",
+    "hsn": "2051",
+    "tsn": "ABW",
+    "carType": "suv",
+    "consumption": 8.9,
+    "maxTankVolume": 82.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 53,
+    "name": "Alfa Romeo Stelvio",
+    "hsn": "4136",
+    "tsn": "BFW",
+    "carType": "suv",
+    "consumption": 8.5,
+    "maxTankVolume": 64.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 54,
+    "name": "Toyota C-HR",
+    "hsn": "5013",
+    "tsn": "AJD",
+    "carType": "cuv",
+    "consumption": 4.9,
+    "maxTankVolume": 43.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 55,
+    "name": "VW Passat Variant",
+    "hsn": "0603",
+    "tsn": "CKN",
+    "carType": "station",
+    "consumption": 5.1,
+    "maxTankVolume": 66.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 56,
+    "name": "Audi A6 Avant",
+    "hsn": "0588",
+    "tsn": "BDP",
+    "carType": "station",
+    "consumption": 5.7,
+    "maxTankVolume": 63.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 57,
+    "name": "BMW 5 Series Touring",
+    "hsn": "0005",
+    "tsn": "CSI",
+    "carType": "station",
+    "consumption": 5.9,
+    "maxTankVolume": 66.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 58,
+    "name": "Mercedes-Benz E-Class T-Modell",
+    "hsn": "1313",
+    "tsn": "GWE",
+    "carType": "station",
+    "consumption": 6.0,
+    "maxTankVolume": 66.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 59,
+    "name": "Opel Insignia Sports Tourer",
+    "hsn": "0035",
+    "tsn": "BHT",
+    "carType": "station",
+    "consumption": 5.8,
+    "maxTankVolume": 62.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 60,
+    "name": "Ford Mondeo Turnier",
+    "hsn": "8566",
+    "tsn": "BFP",
+    "carType": "station",
+    "consumption": 5.3,
+    "maxTankVolume": 62.5,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 61,
+    "name": "Skoda Superb Combi",
+    "hsn": "8004",
+    "tsn": "AQW",
+    "carType": "station",
+    "consumption": 5.4,
+    "maxTankVolume": 66.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 62,
+    "name": "Seat Leon Sportstourer",
+    "hsn": "7593",
+    "tsn": "ARL",
+    "carType": "station",
+    "consumption": 5.0,
+    "maxTankVolume": 50.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 63,
+    "name": "Hyundai i30 Kombi",
+    "hsn": "8252",
+    "tsn": "AIJ",
+    "carType": "station",
+    "consumption": 6.0,
+    "maxTankVolume": 50.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 64,
+    "name": "Kia Ceed Sportswagon",
+    "hsn": "8253",
+    "tsn": "AAI",
+    "carType": "station",
+    "consumption": 6.1,
+    "maxTankVolume": 50.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 65,
+    "name": "Toyota Corolla Touring Sports",
+    "hsn": "5013",
+    "tsn": "AJT",
+    "carType": "station",
+    "consumption": 4.5,
+    "maxTankVolume": 43.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 66,
+    "name": "Renault Megane Grandtour",
+    "hsn": "3333",
+    "tsn": "BHF",
+    "carType": "station",
+    "consumption": 5.6,
+    "maxTankVolume": 47.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 67,
+    "name": "Peugeot 308 SW",
+    "hsn": "3003",
+    "tsn": "AJV",
+    "carType": "station",
+    "consumption": 5.2,
+    "maxTankVolume": 53.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 68,
+    "name": "Citroën Berlingo",
+    "hsn": "3001",
+    "tsn": "BJE",
+    "carType": "passengerVan",
+    "consumption": 5.7,
+    "maxTankVolume": 50.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 69,
+    "name": "VW Caddy",
+    "hsn": "0603",
+    "tsn": "CMB",
+    "carType": "passengerVan",
+    "consumption": 5.8,
+    "maxTankVolume": 55.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 70,
+    "name": "Opel Combo Life",
+    "hsn": "1844",
+    "tsn": "AEX",
+    "carType": "passengerVan",
+    "consumption": 5.6,
+    "maxTankVolume": 50.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 71,
+    "name": "Ford Tourneo Connect",
+    "hsn": "8566",
+    "tsn": "BGY",
+    "carType": "passengerVan",
+    "consumption": 5.9,
+    "maxTankVolume": 60.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 72,
+    "name": "Toyota Proace City Verso",
+    "hsn": "5013",
+    "tsn": "AKF",
+    "carType": "passengerVan",
+    "consumption": 5.5,
+    "maxTankVolume": 50.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 73,
+    "name": "Peugeot Rifter",
+    "hsn": "1889",
+    "tsn": "AAY",
+    "carType": "passengerVan",
+    "consumption": 5.7,
+    "maxTankVolume": 50.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 74,
+    "name": "Citroën C1",
+    "hsn": "3001",
+    "tsn": "BHT",
+    "carType": "micro",
+    "consumption": 4.8,
+    "maxTankVolume": 35.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 75,
+    "name": "VW up!",
+    "hsn": "0603",
+    "tsn": "BKM",
+    "carType": "micro",
+    "consumption": 4.9,
+    "maxTankVolume": 35.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 76,
+    "name": "Hyundai i10",
+    "hsn": "8252",
+    "tsn": "AJA",
+    "carType": "micro",
+    "consumption": 5.4,
+    "maxTankVolume": 36.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 77,
+    "name": "Kia Picanto",
+    "hsn": "8253",
+    "tsn": "AAZ",
+    "carType": "micro",
+    "consumption": 5.6,
+    "maxTankVolume": 35.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 78,
+    "name": "Fiat Panda",
+    "hsn": "4136",
+    "tsn": "BBY",
+    "carType": "micro",
+    "consumption": 5.1,
+    "maxTankVolume": 38.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 79,
+    "name": "Renault Twingo",
+    "hsn": "3333",
+    "tsn": "BDU",
+    "carType": "micro",
+    "consumption": 5.0,
+    "maxTankVolume": 35.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 80,
+    "name": "Mitsubishi Space Star",
+    "hsn": "7107",
+    "tsn": "ABF",
+    "carType": "micro",
+    "consumption": 4.9,
+    "maxTankVolume": 35.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 81,
+    "name": "VW Touran",
+    "hsn": "0603",
+    "tsn": "BVT",
+    "carType": "minivan",
+    "consumption": 6.1,
+    "maxTankVolume": 58.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 82,
+    "name": "BMW 2 Series Active Tourer",
+    "hsn": "0005",
+    "tsn": "BZI",
+    "carType": "minivan",
+    "consumption": 5.8,
+    "maxTankVolume": 51.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 83,
+    "name": "Mercedes-Benz B-Class",
+    "hsn": "1313",
+    "tsn": "HWT",
+    "carType": "minivan",
+    "consumption": 5.7,
+    "maxTankVolume": 51.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 84,
+    "name": "Ford S-MAX",
+    "hsn": "8566",
+    "tsn": "BGM",
+    "carType": "minivan",
+    "consumption": 6.5,
+    "maxTankVolume": 70.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 85,
+    "name": "Seat Alhambra",
+    "hsn": "7593",
+    "tsn": "AKF",
+    "carType": "minivan",
+    "consumption": 6.7,
+    "maxTankVolume": 70.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 86,
+    "name": "Ford Galaxy",
+    "hsn": "8566",
+    "tsn": "BGL",
+    "carType": "minivan",
+    "consumption": 6.8,
+    "maxTankVolume": 65.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 87,
+    "name": "Volkswagen Sharan",
+    "hsn": "0603",
+    "tsn": "CMT",
+    "carType": "minivan",
+    "consumption": 6.4,
+    "maxTankVolume": 60.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 88,
+    "name": "Peugeot 5008",
+    "hsn": "3003",
+    "tsn": "AKF",
+    "carType": "minivan",
+    "consumption": 6.3,
+    "maxTankVolume": 58.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 89,
+    "name": "Citroën Spacetourer",
+    "hsn": "3001",
+    "tsn": "BJE",
+    "carType": "minivan",
+    "consumption": 6.0,
+    "maxTankVolume": 60.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 90,
+    "name": "Opel Zafira Life",
+    "hsn": "0035",
+    "tsn": "BHT",
+    "carType": "minivan",
+    "consumption": 6.2,
+    "maxTankVolume": 58.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 91,
+    "name": "Renault Trafic Passenger",
+    "hsn": "3333",
+    "tsn": "BHF",
+    "carType": "minivan",
+    "consumption": 7.2,
+    "maxTankVolume": 70.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 92,
+    "name": "Ford Transit Passenger",
+    "hsn": "8566",
+    "tsn": "BGY",
+    "carType": "minivan",
+    "consumption": 8.0,
+    "maxTankVolume": 75.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 93,
+    "name": "Mercedes-Benz V-Class",
+    "hsn": "1313",
+    "tsn": "HWT",
+    "carType": "minivan",
+    "consumption": 8.5,
+    "maxTankVolume": 70.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 94,
+    "name": "Volkswagen Multivan",
+    "hsn": "0603",
+    "tsn": "BMT",
+    "carType": "minivan",
+    "consumption": 8.3,
+    "maxTankVolume": 75.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 95,
+    "name": "Porsche Cayenne",
+    "hsn": "0583",
+    "tsn": "AHH",
+    "carType": "suv",
+    "consumption": 9.0,
+    "maxTankVolume": 75.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 96,
+    "name": "BMW X5",
+    "hsn": "0005",
+    "tsn": "BZW",
+    "carType": "suv",
+    "consumption": 8.7,
+    "maxTankVolume": 70.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 97,
+    "name": "Audi Q7",
+    "hsn": "0588",
+    "tsn": "CDL",
+    "carType": "suv",
+    "consumption": 8.9,
+    "maxTankVolume": 75.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 98,
+    "name": "Mercedes-Benz GLE",
+    "hsn": "1313",
+    "tsn": "HZT",
+    "carType": "suv",
+    "consumption": 9.2,
+    "maxTankVolume": 80.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 99,
+    "name": "Volvo XC90",
+    "hsn": "9101",
+    "tsn": "BIF",
+    "carType": "suv",
+    "consumption": 9.5,
+    "maxTankVolume": 85.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 100,
+    "name": "Land Rover Discovery",
+    "hsn": "2143",
+    "tsn": "ABZ",
+    "carType": "suv",
+    "consumption": 10.0,
+    "maxTankVolume": 90.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 101,
+    "name": "Toyota Land Cruiser",
+    "hsn": "5013",
+    "tsn": "AOS",
+    "carType": "suv",
+    "consumption": 10.5,
+    "maxTankVolume": 95.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 102,
+    "name": "Nissan Patrol",
+    "hsn": "1329",
+    "tsn": "AJS",
+    "carType": "suv",
+    "consumption": 11.0,
+    "maxTankVolume": 100.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 103,
+    "name": "Mitsubishi Pajero",
+    "hsn": "7107",
+    "tsn": "ABF",
+    "carType": "suv",
+    "consumption": 11.5,
+    "maxTankVolume": 105.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 104,
+    "name": "Subaru Outback",
+    "hsn": "5007",
+    "tsn": "BJF",
+    "carType": "suv",
+    "consumption": 7.8,
+    "maxTankVolume": 60.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 105,
+    "name": "Suzuki Vitara",
+    "hsn": "8201",
+    "tsn": "ABJ",
+    "carType": "suv",
+    "consumption": 6.9,
+    "maxTankVolume": 47.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 106,
+    "name": "Skoda Kodiaq",
+    "hsn": "8004",
+    "tsn": "ATU",
+    "carType": "suv",
+    "consumption": 6.5,
+    "maxTankVolume": 55.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 107,
+    "name": "Seat Tarraco",
+    "hsn": "7593",
+    "tsn": "AMF",
+    "carType": "suv",
+    "consumption": 6.7,
+    "maxTankVolume": 60.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 108,
+    "name": "Ford Edge",
+    "hsn": "8566",
+    "tsn": "BGM",
+    "carType": "suv",
+    "consumption": 8.0,
+    "maxTankVolume": 65.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 109,
+    "name": "Chevrolet Blazer",
+    "hsn": "7003",
+    "tsn": "ABF",
+    "carType": "suv",
+    "consumption": 8.5,
+    "maxTankVolume": 70.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 110,
+    "name": "Honda CR-V",
+    "hsn": "8505",
+    "tsn": "AAM",
+    "carType": "suv",
+    "consumption": 7.2,
+    "maxTankVolume": 58.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 111,
+    "name": "Mazda CX-5",
+    "hsn": "7118",
+    "tsn": "AAL",
+    "carType": "suv",
+    "consumption": 7.0,
+    "maxTankVolume": 55.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 112,
+    "name": "Peugeot 3008",
+    "hsn": "3003",
+    "tsn": "AJU",
+    "carType": "suv",
+    "consumption": 6.4,
+    "maxTankVolume": 53.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 113,
+    "name": "Citroën C4 Aircross",
+    "hsn": "3001",
+    "tsn": "BJE",
+    "carType": "suv",
+    "consumption": 6.8,
+    "maxTankVolume": 55.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 114,
+    "name": "Opel Grandland X",
+    "hsn": "0035",
+    "tsn": "BHT",
+    "carType": "suv",
+    "consumption": 6.6,
+    "maxTankVolume": 54.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 115,
+    "name": "Renault Koleos",
+    "hsn": "3333",
+    "tsn": "BHF",
+    "carType": "suv",
+    "consumption": 7.4,
+    "maxTankVolume": 60.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 116,
+    "name": "Ford Bronco",
+    "hsn": "8566",
+    "tsn": "BGM",
+    "carType": "suv",
+    "consumption": 9.0,
+    "maxTankVolume": 70.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 117,
+    "name": "Chevrolet Tahoe",
+    "hsn": "7003",
+    "tsn": "ABF",
+    "carType": "suv",
+    "consumption": 9.5,
+    "maxTankVolume": 75.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 118,
+    "name": "Toyota Sequoia",
+    "hsn": "5013",
+    "tsn": "AOS",
+    "carType": "suv",
+    "consumption": 10.0,
+    "maxTankVolume": 80.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 119,
+    "name": "Nissan Armada",
+    "hsn": "1329",
+    "tsn": "AJS",
+    "carType": "suv",
+    "consumption": 10.5,
+    "maxTankVolume": 85.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 120,
+    "name": "Mitsubishi Montero",
+    "hsn": "7107",
+    "tsn": "ABF",
+    "carType": "suv",
+    "consumption": 11.0,
+    "maxTankVolume": 90.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 121,
+    "name": "Subaru Forester",
+    "hsn": "5007",
+    "tsn": "BJF",
+    "carType": "suv",
+    "consumption": 7.5,
+    "maxTankVolume": 65.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 122,
+    "name": "Suzuki S-Cross",
+    "hsn": "8201",
+    "tsn": "ABJ",
+    "carType": "suv",
+    "consumption": 6.8,
+    "maxTankVolume": 48.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 123,
+    "name": "Skoda Karoq",
+    "hsn": "8004",
+    "tsn": "ATU",
+    "carType": "suv",
+    "consumption": 6.2,
+    "maxTankVolume": 52.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 124,
+    "name": "Seat Ateca",
+    "hsn": "7593",
+    "tsn": "AMF",
+    "carType": "suv",
+    "consumption": 6.4,
+    "maxTankVolume": 54.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 125,
+    "name": "Ford Explorer",
+    "hsn": "8566",
+    "tsn": "BGM",
+    "carType": "suv",
+    "consumption": 8.5,
+    "maxTankVolume": 75.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 126,
+    "name": "Chevrolet Suburban",
+    "hsn": "7003",
+    "tsn": "ABF",
+    "carType": "suv",
+    "consumption": 9.0,
+    "maxTankVolume": 80.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 127,
+    "name": "Honda Passport",
+    "hsn": "8505",
+    "tsn": "AAM",
+    "carType": "suv",
+    "consumption": 7.8,
+    "maxTankVolume": 60.0,
+    "fuelType": "superE10"
+  },
+  {
+    "id": 128,
+    "name": "Mazda CX-30",
+    "hsn": "7118",
+    "tsn": "AAL",
+    "carType": "suv",
+    "consumption": 6.6,
+    "maxTankVolume": 55.0,
+    "fuelType": "super95"
+  },
+  {
+    "id": 129,
+    "name": "Peugeot 5008 II",
+    "hsn": "3003",
+    "tsn": "AKF",
+    "carType": "minivan",
+    "consumption": 6.3,
+    "maxTankVolume": 58.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 130,
+    "name": "Citroën Spacetourer II",
+    "hsn": "3001",
+    "tsn": "BJE",
+    "carType": "minivan",
+    "consumption": 6.0,
+    "maxTankVolume": 60.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 131,
+    "name": "Opel Zafira Life II",
+    "hsn": "0035",
+    "tsn": "BHT",
+    "carType": "minivan",
+    "consumption": 6.2,
+    "maxTankVolume": 58.0,
+    "fuelType": "diesel"
+  },
+  {
+    "id": 132,
+    "name": "Renault Trafic Passenger II",
+    "hsn": "3333",
+    "tsn": "BHF",
+    "carType": "minivan",
+    "consumption": 7.2,
+    "maxTankVolume": 70.0,
+    "fuelType": "diesel"
+  }
+]

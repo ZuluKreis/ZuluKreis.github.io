@@ -1,15 +1,51 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-    <title>juicr | tanken war nie smarter</title> <!-- This title will show -->
-    <meta name="description" content="juicr">
-    <style>
-        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }
-        iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
-    </style>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="juicr">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png" />
+
+  <title>juicr</title>
+  <link rel="manifest" href="manifest.json">
+  <script src="config.js"></script>
+  <script>
+    const script = document.createElement('script');
+    script.src = `https://maps.googleapis.com/maps/api/js?key=${GOOGLE_MAPS_API_KEY}`;
+    document.head.appendChild(script);
+  </script>
+
 </head>
+
 <body>
-        <p>The auto redirect did not work. Please visit <a href="https://hci-mi5x-juicr-35b3d9.h-da.io/">https://hci-mi5x-juicr-35b3d9.h-da.io/</a> directly.</p>
-    </iframe>
+  <script src="flutter_bootstrap.js" async></script>
+  <script
+          src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcz_693USMgxvc3KHk1mf8JRpDRUOutSg&libraries=drawing" async>
+  </script>
 </body>
+
 </html>
